@@ -5,7 +5,7 @@ from pathlib import Path
 import numpy as np
 
 import torch
-from torch._six import inf
+# from torch._six import inf
 
 from fixed_budget_pjt.config import ENV
 from fixed_budget_pjt.model import PolicyNet
